@@ -28,7 +28,7 @@ end
 --bye bye--
 function RSN0()
   gg.setVisible(false)
-  RS = gg.alert("⏩Aktifin Wallhack 425 Color LightBlue⏪  ", "☑️Yes", "❎No")
+  RS = gg.alert("⏩Kontol⏪  ", "☑️Yes", "❎No")
   if RS == 1 then BP() end
   if RS == 2 then
   end
